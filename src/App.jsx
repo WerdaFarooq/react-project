@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Vite React app</h1>
           <p>
-            Edit <code>src/App.jsx</code> Testing Phase <code>HMR</code>
+            Edit <code>src/App.jsx</code>New code testing Phase <code>HMR</code>
           </p>
         </div>
         <button
